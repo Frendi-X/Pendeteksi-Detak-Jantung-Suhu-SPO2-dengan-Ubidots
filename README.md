@@ -1,6 +1,6 @@
 # ❤️ Smart SpO₂ & Heart Rate Monitoring System (ESP8266 + MAX30102 + MLX90614 + Ubidots IoT)
 
-Proyek ini adalah sebuah sistem pemantauan kesehatan berbasis Internet of Things (IoT) yang menggunakan ESP8266 untuk menghubungkan berbagai sensor kesehatan ke internet. Sistem ini mampu mengukur beberapa parameter kesehatan seperti detak jantung (BPM), Saturasi Oksigen dalam Darah (SpO2), dan suhu tubuh. Data yang dikumpulkan kemudian dikirimkan ke platform cloud Ubidots untuk pemantauan jarak jauh, memungkinkan pengguna atau profesional medis untuk memantau kondisi kesehatan secara real-time.
+Proyek ini adalah sebuah sistem pemantauan kesehatan berbasis Internet of Things (IoT) yang menggunakan ESP8266 untuk menghubungkan berbagai sensor kesehatan ke internet. Sistem ini mampu mengukur beberapa parameter kesehatan seperti detak jantung (BPM), Saturasi Oksigen dalam Darah (SpO2), dan suhu tubuh. Data yang dikumpulkan kemudian dikirimkan ke platform cloud Ubidots untuk pemantauan jarak jauh, memungkinkan pengguna atau profesional medis untuk memantau kondisi kesehatan secara real-time. [SKRIPSI - Teknik Elektro UMPO]
 
 ---
 
